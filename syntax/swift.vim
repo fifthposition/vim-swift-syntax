@@ -1,7 +1,7 @@
 " Swift syntax file
 " Language:     Swift
 " Maintainer:   Ben Klein <ben@silver-chalice.com>
-" Last Change:  2014 Jul 21
+" Last Change:  2014 Jul 31
 
 " The variable b:current_syntax stores the name of the loaded syntax
 " file. If that variable isn't empty, we don't need to load this file, so we
