@@ -32,5 +32,5 @@ highlight link    swiftConstant       String
 
 highlight link    swiftString         String
 highlight link    swiftExpression     Identifier
-highlight link    SwiftComment        Keyword
+highlight link    SwiftComment        Normal
 
