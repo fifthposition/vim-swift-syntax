@@ -21,6 +21,7 @@ syntax  match     swiftConstant     "let\s\zs\w*"
 syntax  region    swiftString       start=\"\ end=\"\
 syntax  region    swiftExpression   start="\\(\zs" end="\ze)" containedin=swiftString
 syntax  region    swiftComment      start="//" end="\n"
+syntax  region    swiftComment      start="/\*" end="\*/"
 
 highlight link    swiftKeyword        Keyword
 highlight link    swiftType           Type
